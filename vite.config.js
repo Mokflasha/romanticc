@@ -1,7 +1,7 @@
 import { defineConfig } from 'vite'
 
 export default defineConfig({
-  base:'/romanticс/',
+  base:'/romanticc/',
 	build: {
 		rollupOptions:{
 			input: {
