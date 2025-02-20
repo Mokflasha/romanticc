@@ -1,1 +1,2 @@
-console.log('fdgdfg')
+import '../css/style.css';
+import '../css/reset.css';
