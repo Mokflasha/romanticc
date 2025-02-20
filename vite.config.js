@@ -21,5 +21,9 @@ export default defineConfig({
   },
   css: {
     // Настройки CSS, если они нужны
-  }
+  },
+	content: [
+    "./index.html",
+    "./src/**/*.{js,ts,jsx,tsx}",
+  ],
 });
